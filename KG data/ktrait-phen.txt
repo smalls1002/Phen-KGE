@@ -1,0 +1,87 @@
+Trait::Defense Related Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::Aphidnumber
+Trait::Defense Related Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::As2
+Trait::Defense Related Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::As2CFU2
+Trait::Defense Related Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::AsCFU2
+Trait::Defense Related Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::At1
+Trait::Defense Related Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::At1CFU2
+Trait::Defense Related Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::At2
+Trait::Defense Related Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::At2CFU2
+Trait::Defense Related Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::AvrB
+Trait::Defense Related Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::AvrPphB
+Trait::Defense Related Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::AvrRpml
+Trait::Defense Related Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::AvrRpt2
+Trait::Defense Related Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::Bacterialtiter
+Trait::Defense Related Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::Bs
+Trait::Defense Related Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::BsCFU2
+Trait::Defense Related Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::Emco5
+Trait::Defense Related Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::Emoy2
+Trait::Defense Related Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::Hiks1
+Trait::Defense Related Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::Noco2
+Trait::Defense Related Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::TrichomeavgC
+Trait::Defense Related Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::TrichomeavgJA
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::Afterverngrowth
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::Anthocyanin10
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::Anthocyanin16
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::Anthocyanin22
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::Chlorosis10
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::Chlorosis16
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::Chlorosis22
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::DSDS50
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::DW
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::FTdurationGH
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::FW
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::Germ10
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::Germ16
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::Germ22
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::Germindark
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::Hypocotyllength
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::LCdurationGH
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::leafroll10
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::leafroll16
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::leafroll22
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::leafserr10
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::leafserr16
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::leafserr22
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::LES
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::LFSGH
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::LY
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::MTGH
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::Rosetteerect22
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::RPGH
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::secondarydorm
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::Seedbank133-91
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::seeddormancy
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::seedlinggrowth
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::Siliquelength16
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::Siliquelength22
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::Storage28days
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::Storage56days
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::Storage7days
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::verngrowth
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::Width10
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::Width16
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::Width22
+Trait::Developmental Phenotype	KnetMiner::TrP::Trait:Phenotype	Phenotype::YEL
+Trait::Flowering Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::0W
+Trait::Flowering Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::0WGHFT
+Trait::Flowering Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::0WGHLN
+Trait::Flowering Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::2W
+Trait::Flowering Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::4W
+Trait::Flowering Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::8W
+Trait::Flowering Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::8WGHFT
+Trait::Flowering Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::8WGHLN
+Trait::Flowering Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::Diameterfield
+Trait::Flowering Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::FLC
+Trait::Flowering Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::FRI
+Trait::Flowering Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::FT10
+Trait::Flowering Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::FT16
+Trait::Flowering Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::FT22
+Trait::Flowering Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::FTField
+Trait::Flowering Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::FTGH
+Trait::Flowering Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::LD
+Trait::Flowering Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::LDV
+Trait::Flowering Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::LN10
+Trait::Flowering Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::LN16
+Trait::Flowering Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::LN22
+Trait::Flowering Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::SD
+Trait::Flowering Phenotypes	KnetMiner::TrP::Trait:Phenotype	Phenotype::SDV
