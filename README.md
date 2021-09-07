@@ -1,6 +1,8 @@
 # Phen-KGE
  Repurpose GWAS Data to Prioritize Functional Gene for Arabidopsis Using Knowledge Graph
+ 
 一. DGL-KE
+
 DGL-KE is a deep learning framework based on DGL graphs (https://github.com/dmlc/dgl), and a high-performance and highly scalable open source software library for the field of knowledge graph embedded learning methods. Phen-KGE uses the DGL-KE software package generated the low-latitude embedding vector representation of the Phen-KGE knowledge graph. The dataset of Phen-KGE is available at the folder of KG data.
 
 import sys
@@ -17,6 +19,7 @@ Then directly call the command line of the DGL-KE software package to train the 
 After training, we will get two files: 1) PRKG_TransE_l2_entity.npy, the low-dimensional vector representation of the entity in Phen-KGE and 2) PRKG_TransE_l2_relation.npy, the low-dimensional vector representation of the relationship in Phen-KGE.
 
 二. The relationship of Phenotype-gene Prediction
+
 We define the gene prediction problem of the new coronavirus based on the Phen-KGE knowledge map as predicting the relationship between the gene and the new coronavirus entity between 'AraGWAS::PrG::Phenotype:Gene' and ' KnetMiner::PrG::Phenotype:Gene ' (ie Trait relationship) confidence assessment problem.
 First, to verify the reliability of all methods, a “gold standard” data about functional genes of A. thaliana was downloaded from FLOR-ID (http://www.phytosystems.ulg.ac.be/florid/). FLOR-ID was used to calculate functional gene enrichment rate for the days to flowering trait.
 Then, we predict the scores of all possible (gene and phenotype) triad combinations under the TrainsE_l2 algorithm, and finally sort the scores, and select the top 20% genes with the highest scores as recommended genes.
